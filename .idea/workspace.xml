@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4224f36a-96b8-4c8f-af7a-9ce0e2663449" name="Changes" comment="Prueba dogs para intelliJ" />
+    <list default="true" id="4224f36a-96b8-4c8f-af7a-9ce0e2663449" name="Changes" comment="Prueba dogs para intelliJ">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Animal/Cat.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +83,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
